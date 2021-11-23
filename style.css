@@ -2,11 +2,25 @@ body {
     background-color: #A5C4D4;
 }
 
+#nome {
+    text-align:center;
+    padding-bottom: 10px;
+}
+
 
 h1, h3, p {
     color: #36151E;
 }
 
+
 ul {
     color: #593F62;
+}
+
+#foto {
+    float: left;
+}
+
+.head {
+    height: 200px;
 }
